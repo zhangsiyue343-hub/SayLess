@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Say Less",
+  "version": "1.0",
+  "description": "Say less. Spend less.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
